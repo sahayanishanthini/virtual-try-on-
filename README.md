@@ -1,3 +1,3 @@
 Virtual try on 
 
-Simple method for virtual try on app. Used pose estimation and masking to fix the cloth.
+Simple method for virtual try on app. Used pose estimation and masking to fix the cloth to the person.
